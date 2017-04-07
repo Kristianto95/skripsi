@@ -1,0 +1,352 @@
+/*-------------------------Awal NAVIGATOR PUBLIC--------------------------*/
+.navbar-inverse{
+/* background:  rgba(0, 0, 0, 0.6) !important;  */
+ background: #2fbb9f!important;
+ color: white !important;
+ margin: opx auto;
+ font-size: 12pt;
+ font-weight: bold;
+ padding: 10px;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+.navbar-collapse .navbar-nav li
+{
+ background: #2fbb9f;
+}
+.navbar-collapse .navbar-nav li:hover
+{
+  font-size: 13pt;
+ color: #F0FF00;
+}
+.navbar-collapse .navbar-nav li {
+  background-color: #2fbb9f;
+}
+.dropdown-menu 
+{
+  background-color:#2fbb9f;
+}
+.navbar-collapse .navbar-nav li a
+{
+  color: #fff;
+}
+.dropdown .dropdown-menu li 
+{
+  background: #2fbb9f;
+}
+
+.dropdown .dropdown-toggle:active
+{
+  background-color: #008c7a;
+}
+.dropdown .dropdown-menu li :hover
+{
+  background-color: #008c7a;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: #008c7a;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    color: #ffffff ;
+}
+/*-------------------------Akhir NAVIGATOR PUBLIC--------------------------*/
+/*-------------------------Awal Footer PUBLIC--------------------------*/
+.utama{
+  background-color: #F0EDF0;
+}
+
+.coloumn-title{
+  text-align: center;
+  padding-top: 1px;
+}
+.row{
+  padding-bottom: 60px;
+}
+
+.alamat
+{
+  text-align: center;
+  background-color: white; 
+  font-size: 9pt; 
+}
+
+.telpon-email
+{
+  background-color: white; 
+  font-size: 9pt;
+}
+
+.copyright
+{
+  padding-bottom: 50px; 
+  margin: 0px auto;
+}
+
+/*-------------------------Akhir footer PUBLIC--------------------------*/
+
+/*-------------------------Awal HALAMAN INDEX....--------------------------*/
+
+/* Awal Halaman Paling Atas*/
+
+.logo{
+  padding-top: 50PX;
+	margin: 0px auto;
+  opacity: 0;
+}
+  
+  .sub-menu
+  {
+    text-decoration: none;
+    color: #2fbb9f;
+    padding-top: 35px;
+    padding-bottom: 45px; 
+    margin: 0px auto;"
+  }
+
+  .menu-utama
+  {
+    background: #f4f4f4; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+/*-------------------------Akhir HALAMAN INDEX....--------------------------*/
+
+/*-------------------------Awal HALAMAN PERIJINAN.................................*/
+.first{
+  padding-top:60px;
+  color: #676a6c; 
+  font-weight: bold;
+  padding-bottom: 30px;
+  background: #f3f3f3;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  position: relative;
+}
+.second{
+  padding-top:30px;
+  color: #523e3e;  
+  background: #eff0f0; 
+  width: 100%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.third{
+  background: #f7f7f7;
+}
+/*-------------------------Akhir HALAMAN PERIJINAN.................................*/
+
+/*--------------------------------- Awal Halaman Pencarian -------------*/
+
+.kotakcari2
+{
+  margin: 0px auto;
+  color: #fff; 
+  background-color:  #17ab8d;
+  width: 100%;
+  height: 500px;
+  font-size: 20px;
+  padding-left: 30px;
+}
+.garistabel
+{
+  border-color: red !important;
+  border: hidden;
+}
+.cari
+ {
+    width: 70%;
+    background:  #2fbb9f!important;
+  }
+/*--------------------------------- Akhir Halaman Pencarian -------------*/
+/*--------------------------------- Awal Halaman CETAK -------------*/
+.p1
+{
+  line-height: 15%;
+  font-size: 20px;
+}
+
+.p2
+{
+  line-height: 40%;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.p3
+{
+  line-height: 1%;
+  font-size: 11px;
+}
+
+.p4
+{
+  line-height: 40%;
+  font-size: 15px;
+}
+
+.p5
+{
+  line-height: 100%;
+  font-size: 15px;
+}
+
+
+.fonttable
+{
+        font-size: 15px;
+        line-height: 25px;
+    }
+.fonttable2
+{
+        font-size: 13px;
+        line-height: 16px;
+    }
+
+.h3tampil
+{
+  padding-top: 50px;
+  }
+/*--------------------------------- Akhir Halaman CETAK -------------*/
+
+/*-------------------------Awal HALAMAN Komentar.................................*/
+  #section29 {
+    padding-top:50px;
+    height:80%;
+    color: #fff; 
+    background-color: #515659;
+  }
+  #section30 {
+    padding-top:50px;
+    height:220%;
+    background-color:#48A6E0;
+  }
+
+  .form1{
+    width: 100%;
+    box-shadow: -5px 5px 5px black;
+  }
+  .form2{
+    width: 100%;
+    box-shadow: -5px 5px 5px black;
+  }
+  .nama{
+    font-family: halvetica;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+  }
+  .komentar{
+    color: black;
+  }
+/*-------------------------Akhir HALAMAN Komentar.................................*/
+
+  /*-------------------------lain-lain....--------------------------*/
+.pindex {
+  text-align: justify;
+  text-indent: 50px;
+}
+
+.pindexsub {
+  text-indent: 60px;
+  font-size: 10pt;
+}
+
+.textputih{
+ color: white;
+  }
+
+.texthitam{
+ color: black;
+  }
+
+.lebarinputan{
+	width: 150px;
+}
+
+.sub{
+  padding-left: 50px;
+}
+
+.peringatan{
+	width: 15%;
+	float: left;
+}
+
+form{
+  width: 100%;
+}
+
+.tombol{
+  box-shadow: -5px 5px 5px black;
+  color: black;
+}
+
+.texttengah{
+text-align: center;
+}
+
+.garistabel{
+  border-color: black;
+  border: none !important;
+}
+
+
+  .hr{
+    border-color: black;
+  }
+
+.login{
+   background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.line-title
+  {
+    border-color: #2fbb9f;
+    margin: 0px auto;
+    width: 200px;
+  }
+.line-permision
+  {
+    border-color: #2fbb9f;
+    margin: 0px auto;
+
+  }
+
+  .line-spacing
+  {
+    padding-top: 5%;
+  }
+
+  .visi-misi
+  {
+    color: #2fbb9f;
+  }
+
+  .misi
+  {
+    padding-bottom: 50px;
+  }
+
+.input-group-addon
+{
+  background:  #2fbb9f!important;
+  color: white !important;
+}
+.form-control
+{
+      border: 1px solid #2fbb9f;
+}
+
+.panel-default>.panel-heading {
+    color: #fff;
+    background-color: #13967c;
+    border-color: #000;
+}
